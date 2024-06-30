@@ -21,9 +21,7 @@
     flex-shrink: 0;
     height: 40vw;
   }
-  .filterPage {
-    width: 100%;
-  }
+  
   .box-container {
     width: 100%;
   }
@@ -112,14 +110,7 @@
   .box-container {
     width: 100%;
   }
-  .filterCenter {
-    flex-direction: column;
-    align-items: center;
-  }
-  .filterPage {
-    flex-direction: column;
-    align-items: center;
-  }
+  
   
   .hover {
     height: 20%;
